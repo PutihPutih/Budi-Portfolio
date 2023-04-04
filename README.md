@@ -21,6 +21,6 @@
 - Implemented common table expressions (CTEs)
 # Data used from --> https://ourworldindata.org/covid-deaths
 
-# [Project 4: Netflix_Dashboard([https://github.com/PutihPutih/SQL_Covids/blob/main/CovidQueries.sql](https://public.tableau.com/app/profile/budiono.guntoro/viz/NetflixAnalysis_16802438483920/Dashboard1?publish=yes)) 
+# [Project 4: Netflix_Dashboard(https://public.tableau.com/app/profile/budiono.guntoro/viz/NetflixAnalysis_16802438483920/Dashboard1?publish=yes)
 - Geographic analysis on which most country contributed
 - Trend analysis on Genre Watched, Shows added, and rating
