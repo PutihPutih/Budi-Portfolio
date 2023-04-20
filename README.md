@@ -26,14 +26,21 @@
   <img src="readMe-Images/wordCloud.png" alt="Picture" width="400"/>
 </p>
 
-# [Project 4: SQL Data Exploration(https://github.com/PutihPutih/SQL_Covids/blob/main/CovidQueries.sql) 
+# [Project 4: SQL Data Exploration](https://github.com/PutihPutih/SQL_Covids/blob/main/CovidQueries.sql) 
 - Implemented Joins between two tables
 - Implemented an aggregated functions (MAX, ROUND, SUM, etc)
 - Implemented common table expressions (CTEs)
 # Data used from --> https://ourworldindata.org/covid-deaths
 
-# [Project 5: Netflix_Dashboard(https://public.tableau.com/app/profile/budiono.guntoro/viz/NetflixAnalysis_16802438483920/Dashboard1?publish=yes)
+# [Project 5: Netflix_Dashboard](https://public.tableau.com/app/profile/budiono.guntoro/viz/NetflixAnalysis_16802438483920/Dashboard1?publish=yes)
 - Geographic analysis on which most country contributed
 - Trend analysis on Genre Watched, Shows added, and rating
 
-# 
+# [Project 6: Bookstore Dashboard](https://public.tableau.com/app/profile/budiono.guntoro/viz/BookStoreDashboard/Dashboard1?publish=yes)
+- Utilized filters for every insight
+- Geographic visualization for different state
+- Statistical modeling
+<p align="left">
+  <img src="readMe-Images/bookstrore.png" alt="Picture" width="400"/>
+</p>
+
