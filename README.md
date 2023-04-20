@@ -36,7 +36,7 @@
 - Geographic analysis on which most country contributed
 - Trend analysis on Genre Watched, Shows added, and rating
 
-# [Project 6: Bookstore Dashboard](https://public.tableau.com/app/profile/budiono.guntoro/viz/BookStoreDashboard/Dashboard1?publish=yes)
+# [Project 6: Bikestore Dashboard](https://public.tableau.com/app/profile/budiono.guntoro/viz/BookStoreDashboard/Dashboard1?publish=yes)
 - Utilized filters for every insight
 - Geographic visualization for different state
 - Statistical modeling
