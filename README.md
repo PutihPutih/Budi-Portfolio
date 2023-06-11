@@ -44,3 +44,8 @@
   <img src="readMe-Images/bookstrore.png" alt="Picture" width="400"/>
 </p>
 
+# [Project 6: Covid Dashboard](https://public.tableau.com/shared/RZNSWPKD4?:display_count=n&:origin=viz_share_link)
+<p align="left">
+  <img src="readMe-Images/covidDashboard.png" alt="Picture" width="400"/>
+</p>
+
