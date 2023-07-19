@@ -44,8 +44,14 @@
   <img src="readMe-Images/bookstrore.png" alt="Picture" width="400"/>
 </p>
 
-# [Project 6: Covid Dashboard](https://public.tableau.com/shared/RZNSWPKD4?:display_count=n&:origin=viz_share_link)
+# [Project 7: Covid Dashboard](https://public.tableau.com/shared/RZNSWPKD4?:display_count=n&:origin=viz_share_link)
 <p align="left">
   <img src="readMe-Images/covidDashboard.png" alt="Picture" width="400"/>
 </p>
 
+
+
+# [Project 8: Covid Dashboard](https://public.tableau.com/views/AmazonPrimeDashboard_16891560108680/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+<p align="left">
+  <img src="readMe-Images/moviePrime.png" alt="Picture" width="400"/>
+</p>
